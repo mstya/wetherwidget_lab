@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{8633B95A-4D75-49F8-9504-1350B5FAFF6D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Resources/Resource.Designer.cs">
+    <Files>
+      <File FileName="WordWidget.cs" Line="25" Column="1" />
+      <File FileName="UpdateService.cs" Line="56" Column="57" />
+      <File FileName="Resources/values/strings.xml" Line="9" Column="13" />
+      <File FileName="Properties/AndroidManifest.xml" Line="7" Column="12" />
+      <File FileName="Resources/drawable/widget_bg.xml" Line="16" Column="1" />
+      <File FileName="Resources/Resource.Designer.cs" Line="12" Column="82" />
+      <File FileName="Resources/values/styles.xml" Line="44" Column="38" />
+      <File FileName="Properties/AssemblyInfo.cs" Line="13" Column="43" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Vacheslav/Downloads/SimpleWidget/UpdateService.cs" relfile="UpdateService.cs" line="73" column="1" />
+      <Breakpoint file="/Users/Vacheslav/Downloads/SimpleWidget/UpdateService.cs" relfile="UpdateService.cs" line="65" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.WeatherWidget AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.SH39WW907277" />
+</Properties>

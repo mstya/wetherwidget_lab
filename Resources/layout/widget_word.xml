@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/widget"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:rowCount="2"
+    android:columnCount="5">
+    <TextView
+        style="@style/Text.WordType"
+        android:layout_width="60dip"
+        android:layout_height="wrap_content"
+        android:text="Пн"
+        android:id="@+id/textView6"
+        android:paddingLeft="25dip" />
+    <TextView
+        style="@style/Text.WordType"
+        android:layout_width="60dip"
+        android:layout_height="wrap_content"
+        android:text="Вт"
+        android:id="@+id/textView7"
+        android:paddingLeft="25dip"
+        android:layout_gravity="end" />
+    <TextView
+        style="@style/Text.WordType"
+        android:layout_width="60dip"
+        android:layout_height="wrap_content"
+        android:text="Ср"
+        android:id="@+id/textView8"
+        android:paddingLeft="25dip" />
+    <TextView
+        style="@style/Text.WordType"
+        android:layout_width="60dip"
+        android:layout_height="wrap_content"
+        android:text="Чт"
+        android:id="@+id/textView9"
+        android:paddingLeft="25dip" />
+    <TextView
+        style="@style/Text.WordType"
+        android:layout_width="60dip"
+        android:layout_height="wrap_content"
+        android:text="Пт"
+        android:id="@+id/textView10"
+        android:paddingLeft="25dip" />
+    <LinearLayout
+        android:orientation="horizontal"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:id="@+id/linearLayout1">
+        <ImageView
+            android:src="@android:drawable/ic_menu_gallery"
+            android:layout_width="60dip"
+            android:layout_height="60dip"
+            android:id="@+id/imageView1" />
+        <ImageView
+            android:src="#ffbdbdbd"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:scaleType="fitXY"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:paddingTop="5dp" />
+    </LinearLayout>
+    <ImageView
+        android:layout_width="60dip"
+        android:layout_height="60dip"
+        android:src="@android:drawable/ic_menu_gallery"
+        android:id="@+id/imageView2" />
+    <ImageView
+        android:layout_width="60dip"
+        android:layout_height="60dip"
+        android:src="@android:drawable/ic_menu_gallery"
+        android:id="@+id/imageView3" />
+    <ImageView
+        android:layout_width="60dip"
+        android:layout_height="60dip"
+        android:src="@android:drawable/ic_menu_gallery"
+        android:id="@+id/imageView4" />
+    <ImageView
+        style="@style/Text.BlogTitle"
+        android:layout_width="60dip"
+        android:layout_height="60dip"
+        android:src="@android:drawable/ic_menu_gallery"
+        android:id="@+id/imageView5" />
+    <LinearLayout
+        android:orientation="horizontal"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:id="@+id/linearLayout2">
+        <TextView
+            style="@style/Text.WordType"
+            android:layout_width="60dip"
+            android:layout_height="wrap_content"
+            android:text="Text"
+            android:id="@+id/textView1"
+            android:paddingLeft="10dip" />
+        <ImageView
+            android:src="#ffbdbdbd"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:scaleType="fitXY"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:paddingBottom="5dp" />
+    </LinearLayout>
+    <TextView
+        style="@style/Text.WordType"
+        android:layout_width="60dip"
+        android:layout_height="60dip"
+        android:text="Text"
+        android:id="@+id/textView2"
+        android:paddingLeft="10dip" />
+    <TextView
+        style="@style/Text.WordType"
+        android:layout_width="60dip"
+        android:layout_height="60dip"
+        android:text="Text"
+        android:id="@+id/textView3"
+        android:paddingLeft="10dip" />
+    <TextView
+        style="@style/Text.WordType"
+        android:layout_width="60dip"
+        android:layout_height="60dip"
+        android:text="Text"
+        android:id="@+id/textView4"
+        android:paddingLeft="10dip" />
+    <TextView
+        style="@style/Text.WordType"
+        android:layout_width="60dip"
+        android:layout_height="60dip"
+        android:text="Text"
+        android:id="@+id/textView5"
+        android:paddingLeft="10dip" />
+</GridLayout>

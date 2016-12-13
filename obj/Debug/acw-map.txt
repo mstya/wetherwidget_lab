@@ -1,0 +1,8 @@
+WeatherWidget.UpdateService, SimpleWidget;md523edd981cbe8b02336448ffd409e4ab4.UpdateService
+WeatherWidget.UpdateService, SimpleWidget, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md523edd981cbe8b02336448ffd409e4ab4.UpdateService
+WeatherWidget.UpdateService;md523edd981cbe8b02336448ffd409e4ab4.UpdateService
+weatherwidget.UpdateService;md523edd981cbe8b02336448ffd409e4ab4.UpdateService
+WeatherWidget.WordWidget, SimpleWidget;md523edd981cbe8b02336448ffd409e4ab4.WordWidget
+WeatherWidget.WordWidget, SimpleWidget, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md523edd981cbe8b02336448ffd409e4ab4.WordWidget
+WeatherWidget.WordWidget;md523edd981cbe8b02336448ffd409e4ab4.WordWidget
+weatherwidget.WordWidget;md523edd981cbe8b02336448ffd409e4ab4.WordWidget
